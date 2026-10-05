@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/financial_data.db
+data/vector_store/
+data/documents/*
+!data/documents/sample_annual_report.txt
+.DS_Store
+Thumbs.db
+.vscode/

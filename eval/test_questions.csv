@@ -1,0 +1,8 @@
+question,expected_tool,expected_answer_contains
+What was ABC Corp's revenue in 2024?,sql,12400000
+Show me the average revenue from 2021 to 2025 for ABC Corp,sql,
+Calculate the revenue growth for ABC Corp between 2024 and 2025,calc,5.65
+What is ABC Corp's profit margin in 2025?,calc,12.98
+Why did operating profit decline in 2025?,rag,operating expenses
+What are the major financial risks mentioned in the annual report?,rag,wage inflation
+Why did ABC Corp's profit margin change in 2025?,rag,expenses
